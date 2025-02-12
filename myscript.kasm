@@ -1,0 +1,5 @@
+label #0
+inpr $0, #200
+sto $C8, $A
+outr $0, #200
+jmp #0
